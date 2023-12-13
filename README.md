@@ -12,6 +12,7 @@ Polybius Square: Encrypts and decrypts messages by converting characters to thei
 
 Number Substitution: Encrypts and decrypts messages by replacing each character with its assigned numerical value.
 
+
 How to Use
 Clone this repository.
 Open index.html in your web browser.
