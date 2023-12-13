@@ -14,11 +14,12 @@ Number Substitution: Encrypts and decrypts messages by replacing each character 
 
 
 How to Use
-Clone this repository.
-Open index.html in your web browser.
-Select the encryption technique you want to use.
-Enter the message and the required encryption parameters.
-Click the "Encrypt" or "Decrypt" button to see the result.
+- Clone this repository.
+- Open index.html in your web browser.
+- Select the encryption technique you want to use.
+- Enter the message and the required encryption parameters.
+- Click the "Encrypt" or "Decrypt" button to see the result.
+  
 Example
 Caesar Shift
 Input: HELLO, Shift: 3
